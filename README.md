@@ -1,1 +1,1 @@
-# MachineLerning-KMITL
+# MachineLearning-KMITL
